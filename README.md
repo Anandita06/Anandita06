@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 📚 My Notable Projects  
 🔹 [RNA-Seq Differential Expression Analysis](https://github.com/Anandita06/RNASeq_data_DifferExp_Analysis)🧬  
-🔹 [RNA-Seq Differential Expression Analysis](https://github.com/Anandita06/RNASeq_Shrimps)🧬  
+🔹 [RNA-Seq Differential Expression Analysis](https://github.com/Anandita06/RNASeq_Shrimp)🧬  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anandita-banerjee-m-sc-amrsb-a32aab205)  
