@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **RNASeq genomic data varaint analysis from Black Tiger Shrimp against disease**  
+- 🔭 I’m currently working on **RNA-Seq genomic data varaint analysis from Black Tiger Shrimp against disease**  
 - 🌱 I’m currently learning **NGS techniques**  
 - 👯 I’m looking for research collaboration on **Mutli-omics, Computational Neuroscience, Bioinformatics**  
 - 🤔 I’m seeking innovative projects  
