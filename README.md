@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Anandita!
-🎓 Bioinformatics Enthusiast     
+🎓 My field is computational biology and neuroscience     
 
 <!--
 **Anandita06/Anandita06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **RNA-Seq genomic data varaint analysis from Black Tiger Shrimp against disease**  
-- 🌱 I’m currently learning **NGS techniques**  
-- 👯 I’m looking for research collaboration on **Mutli-omics, Computational Neuroscience, Bioinformatics**  
+- 🔭 I’m currently working on **multiple independent short-term projects**  
+- 🌱 I’m currently learning **signal processing and image analysis**  
+- 👯 I’m looking for research collaboration on **Computational Neuroscience, Network Science, ML/AI, Bioinformatics**  
 - 🤔 I’m seeking innovative projects  
-- 💬 Ask me about **Genomics/Transcriptomics, Variant analysis**  
-- 📫 Reach me at: **anandita.banerjee2022@vitalum.ac.in**  
+- 💬 Ask me about **NGS-analysis, Neuroimmunology, Graph Theory**  
+- 📫 Reach me at: **anandita24banerjee@gmail.com**  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: Read me once, Think me twice  
+- ⚡ Fun fact: Scientist by day, artist by night  
 
 ## 📚 My Notable Projects  
 🔹 [RNA-Seq Differential Expression Analysis](https://github.com/Anandita06/RNASeq_data_DifferExp_Analysis)🧬  
